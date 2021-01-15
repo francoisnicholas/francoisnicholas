@@ -1,4 +1,4 @@
-François joins [PlayStation](https://www.playstation.com) in 2020 as a Senior Engineering Manager, where he leads & manages the Cloud Data Operations & Model Operations Engineering Teams within the Cloud Engineering & Operations organization at PlayStation.
+[François](https://www.linkedin.com/in/francoisnicholas) joins [PlayStation](https://www.playstation.com) in 2020 as a Senior Engineering Manager, where he leads & manages the Cloud Data Operations & Model Operations Engineering Teams within the Cloud Engineering & Operations organization at PlayStation.
 
 Before his stewardship at PlayStation, he worked for Ditto, where he led & managed multiple engineering teams tasked with revolutionizing how people shop for glasses by leveraging computer vision & machine learning, virtual try-on technology, facial analysis, & frame recommendation engine.
 
