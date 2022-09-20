@@ -1,4 +1,4 @@
-François has held a variety of technical & leadership roles as an Individual Contributor, Team Lead, Architect, Manager, & Director in sectors including but not limited to e-commerce, e-payment, financial technology, scientific marketing, e-travel, computer vision, augmented reality, cloud computing, machine learning, artificial intelligence, & gaming.
+François has held a variety of technical & leadership roles as an Individual Contributor, Team Lead, Architect, & Manager in sectors including but not limited to e-travel, cloud computing, gaming, & aviation. 
 
 His vision is to be a compassionate technical leader known for inspiring excellence while advocating for the well-being & success of his teams. The aspect of work he is most enthusiastic about is learning & working side by side with people from all walks of life that come up with unique & valuable visions, & build them out beautifully, typically over the doubts & opposition of others.
 
